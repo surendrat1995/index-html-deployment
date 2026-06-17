@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: html-app
-        image: YOUR_DOCKERHUB_USERNAME/html-app:latest
+        image: surendrat1995/html-app:v1
         ports:
         - containerPort: 80
