@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: html-app
-        image: surendrat1995/html-app:v1
+        image: surendrat1995/html-app:v2
         ports:
         - containerPort: 80
